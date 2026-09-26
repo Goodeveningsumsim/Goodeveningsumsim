@@ -3,7 +3,7 @@
   <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=flat-square&label=harm&extraCount=4678&color=d9ddf4&labelColor=f4cdde"/></a>
 
 <p align="center">
-  <img height="500" width="600" src= "https://files.catbox.moe/ou3shu.jpg">
+  <img height="500" width="600" src= "https://files.catbox.moe/umt4r8.jpg">
 
   <p align="center">
   $\small\textcolor{#868BB1}{\textsf{" well}}$
