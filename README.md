@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=flat-square&label=sumsim&extraCount=234&color=f8eefa&labelColor=e68fb5"/></a>
-  <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=flat-square&label=harm&extraCount=4678&color=d9ddf4&labelColor=f4cdde"/></a>
-
+ <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=flat-square&label=an%20empty%20nightmare&extraCount=1313&color=ae1414&labelColor=000000"/></a>
 <p align="center">
   <img height="500" width="600" src= "https://files.catbox.moe/1vdskq.jpg">
 
