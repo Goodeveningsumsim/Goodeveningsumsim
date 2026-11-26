@@ -24,4 +24,5 @@
   <p align="center">
   <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Comicsans+Script&size=20&duration=1&pause=5000&color=242424&center=true&vCenter=true&width=200&height=20&lines=ata" alt="Typing SVG" /></a>
   <a href="https://kasawatawaart.straw.page/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=2B2B2B&center=true&vCenter=true&width=200&height=30&lines=art" alt="Typing SVG" /></a>
+   <a href="https://dreamparasitedisorder.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=2B2B2B&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
   
