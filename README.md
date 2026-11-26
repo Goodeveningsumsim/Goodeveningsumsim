@@ -2,7 +2,7 @@
  <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=flat-square&label=an%20empty%20nightmare&extraCount=1313&color=ae1414&labelColor=000000"/></a>
 
 <p align="center">
-  <img height="500" width="900" src= "https://files.catbox.moe/n2bmvf.png">
+  <img height="500" width="900" src= "https://files.catbox.moe/c16vum.png">
 
   <p align="center">
   $\small\textcolor{#2B2B2B}{\textsf{" well}}$
